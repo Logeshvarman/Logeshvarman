@@ -1,6 +1,6 @@
-![](https://raw.githubusercontent.com/ChandruSankar/ChandruSankar/master/Readme_Profile.jpg)
 
-# Hi there  This is Logesh Varman
+
+# Hi there <img src="https://raw.githubusercontent.com/ChandruSankar/ChandruSankar/master/assets/Hi.gif" width="40" height="40"> This is Chandru Sankar 
 ##### I am enthusiastic developer
 
 <a href="https://www.facebook.com/chanesc99/" target="_blank" style="text-decoration: none">
@@ -26,14 +26,3 @@
 <a href="https://twitter.com/escchandru" target="_blank" style="text-decoration: none">
   <img src="https://raw.githubusercontent.com/ChandruSankar/ChandruSankar/master/assets/twitter.svg" width="128" height="128">
 </a>
-
-
-
-
-
-
-
-
-
-
-
