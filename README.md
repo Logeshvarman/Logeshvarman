@@ -1,13 +1,39 @@
-<h1 align="center">Hi 👋, I'm Logesh Varman</h1>
-<h3 align="center">😎Be new < just old🤞🏻</h3>
+![](https://raw.githubusercontent.com/ChandruSankar/ChandruSankar/master/Readme_Profile.jpg)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/logesh-varman-7699021b1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/logesh-varman-7699021b1/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/14596298/logesh-varman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/14596298/logesh-varman" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/lokesh.messi.927/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/lokesh.messi.927/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/logesh_varman/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/logesh_varman/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/logeshvarman2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/logeshvarman2002" height="30" width="40" /></a>
-</p>
+# Hi there <img src="https://raw.githubusercontent.com/ChandruSankar/ChandruSankar/master/assets/Hi.gif" width="40" height="40"> This is Chandru Sankar 
+##### I am enthusiastic developer
+
+<a href="https://www.facebook.com/chanesc99/" target="_blank" style="text-decoration: none">
+  <img src="https://raw.githubusercontent.com/ChandruSankar/ChandruSankar/master/assets/facebook.svg" width="128" height="128">
+</a>
+
+<a href="https://github.com/ChandruSankar" target="_blank" style="text-decoration: none">
+  <img src="https://raw.githubusercontent.com/ChandruSankar/ChandruSankar/master/assets/github.svg" width="128" height="128">
+</a>
+
+<a href="https://www.hackerearth.com/@escchandru" target="_blank" style="text-decoration: none">
+  <img src="https://raw.githubusercontent.com/ChandruSankar/ChandruSankar/master/assets/hackerearth.svg" width="128" height="128">
+</a>
+
+<a href="https://www.instagram.com/escchandru/" target="_blank" style="text-decoration: none">
+  <img src="https://raw.githubusercontent.com/ChandruSankar/ChandruSankar/master/assets/instagram.svg" width="128" height="128">
+</a>
+
+<a href="https://github.com/bharathmsd7" target="_blank" style="text-decoration: none">
+  <img src="https://raw.githubusercontent.com/ChandruSankar/ChandruSankar/master/assets/linkedin.svg" width="128" height="128">
+</a>
+
+<a href="https://twitter.com/escchandru" target="_blank" style="text-decoration: none">
+  <img src="https://raw.githubusercontent.com/ChandruSankar/ChandruSankar/master/assets/twitter.svg" width="128" height="128">
+</a>
+
+
+
+
+
+
+
+
+
 
 
