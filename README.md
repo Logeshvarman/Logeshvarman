@@ -15,7 +15,7 @@
 </a>
 
 
-<a href="https://www.instagram.com/logesh_varman" target="_blank" style="text-decoration: none">
+<a href="https://instagram.com/0xlogeshvarman?igshid=ZDc4ODBmNjlmNQ==" target="_blank" style="text-decoration: none">
   <img src="https://raw.githubusercontent.com/ChandruSankar/ChandruSankar/master/assets/instagram.svg" width="128" height="128">
 </a>
 
@@ -23,6 +23,6 @@
   <img src="https://raw.githubusercontent.com/ChandruSankar/ChandruSankar/master/assets/linkedin.svg" width="128" height="128">
 </a>
 
-<a href="https://twitter.com/logesh_varman" target="_blank" style="text-decoration: none">
+<a href="https://twitter.com/logesh_varman?t=2wRO28WSfOFvqwgUnU1SbQ&s=09" target="_blank" style="text-decoration: none">
   <img src="https://raw.githubusercontent.com/ChandruSankar/ChandruSankar/master/assets/twitter.svg" width="128" height="128">
 </a>
