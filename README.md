@@ -15,7 +15,6 @@ Gamer🎮 & Full Stack Developer : ⚛ ReactJS⠀⬢ NodeJS⠀🕸️3️⃣ Sol
 ![Typescript](https://img.shields.io/static/v1?style=flat-square&label=&message=Typescript&color=0a0a0a&logo=typescript&logoColor=d946ef)
 ![HTML](https://img.shields.io/static/v1?style=flat-square&label=&message=HTML&color=0a0a0a&logo=html5&logoColor=d946ef)
 ![CSS](https://img.shields.io/static/v1?style=flat-square&label=&message=CSS&color=0a0a0a&logo=css3&logoColor=d946ef)
-![Dart](https://img.shields.io/static/v1?style=flat-square&label=&message=Dart&color=0a0a0a&logo=dart&logoColor=d946ef)
 ![Kotlin](https://img.shields.io/static/v1?style=flat-square&label=&message=Kotlin&color=0a0a0a&logo=kotlin&logoColor=d946ef)
 ![Bash](https://img.shields.io/static/v1?style=flat-square&label=&message=Bash&color=0a0a0a&logo=gnu-bash&logoColor=d946ef)
 
@@ -33,13 +32,13 @@ Gamer🎮 & Full Stack Developer : ⚛ ReactJS⠀⬢ NodeJS⠀🕸️3️⃣ Sol
 
 |                                                                                                             Statistics                                                                                                             |                                                                                                               Top Languages                                                                                                               |
 | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| [![GitHub Stats](https://github-readme-stats.zohan.tech/api?username=Logeshvarman&show_icons=true&hide_border=true&title_color=D946EF&text_color=D946EF&icon_color=a234b3&bg_color=0a0a0a&hide_title=true)](https://github.com/Logeshvarman) | [![Top Langs](https://github-readme-stats.zohan.tech/api/top-langs/?username=zyrouge&layout=compact&hide_border=true&title_color=D946EF&text_color=D946EF&icon_color=D946EF&bg_color=0a0a0a&hide_title=true)](https://github.com/Logeshvarman) |
+| [![GitHub Stats](https://github-readme-stats.zohan.tech/api?username=Logeshvarman&show_icons=true&hide_border=true&title_color=D946EF&text_color=D946EF&icon_color=a234b3&bg_color=0a0a0a&hide_title=true)](https://github.com/Logeshvarman) | [![Top Langs](https://github-readme-stats.zohan.tech/api/top-langs/?username=Logeshvarman&layout=compact&hide_border=true&title_color=D946EF&text_color=D946EF&icon_color=D946EF&bg_color=0a0a0a&hide_title=true)](https://github.com/Logeshvarman) |
 
 ## 💜 Socials
 
 [![Website](https://img.shields.io/static/v1?style=flat-square&label=&message=Website&color=0a0a0a&logo=aboutdotme&logoColor=d946ef)](https://github.com/Logeshvarman)
 [![GitHub](https://img.shields.io/static/v1?style=flat-square&label=&message=GitHub&color=0a0a0a&logo=github&logoColor=d946ef)](https://github.com/Logeshvarman)
 [![Discord](https://img.shields.io/static/v1?style=flat-square&label=&message=Discord&color=0a0a0a&logo=discord&logoColor=d946ef)](https://discord.com/invite/8KV5zCg)
-[![Mastodon](https://img.shields.io/static/v1?style=flat-square&label=&message=Instagram&color=0a0a0a&logo=instagram&logoColor=d946ef)](https://instagram.com/_zyrouge_)
+[![Mastodon](https://img.shields.io/static/v1?style=flat-square&label=&message=Instagram&color=0a0a0a&logo=instagram&logoColor=d946ef)](https://instagram.com/0xlogeshvarman)
 [![Spotify](https://img.shields.io/static/v1?style=flat-square&label=&message=Spotify&color=0a0a0a&logo=spotify&logoColor=d946ef)](https://open.spotify.com/user/1j18hwidprlbek2qngojdan7d)
 [![Mail](https://img.shields.io/static/v1?style=flat-square&label=&message=Mail&color=0a0a0a&logo=gmail&logoColor=d946ef)](mailto:logeshvarmansrinivasan@gmail.com)
