@@ -38,7 +38,6 @@ Gamer🎮 & Full Stack Developer : ⚛ ReactJS⠀⬢ NodeJS⠀🕸️3️⃣ Sol
 
 [![Website](https://img.shields.io/static/v1?style=flat-square&label=&message=Website&color=0a0a0a&logo=aboutdotme&logoColor=d946ef)](https://github.com/Logeshvarman)
 [![GitHub](https://img.shields.io/static/v1?style=flat-square&label=&message=GitHub&color=0a0a0a&logo=github&logoColor=d946ef)](https://github.com/Logeshvarman)
-[![Discord](https://img.shields.io/static/v1?style=flat-square&label=&message=Discord&color=0a0a0a&logo=discord&logoColor=d946ef)](https://discord.com/invite/8KV5zCg)
 [![Mastodon](https://img.shields.io/static/v1?style=flat-square&label=&message=Instagram&color=0a0a0a&logo=instagram&logoColor=d946ef)](https://instagram.com/0xlogeshvarman)
-[![Spotify](https://img.shields.io/static/v1?style=flat-square&label=&message=Spotify&color=0a0a0a&logo=spotify&logoColor=d946ef)](https://open.spotify.com/user/1j18hwidprlbek2qngojdan7d)
+[![Spotify](https://img.shields.io/static/v1?style=flat-square&label=&message=Spotify&color=0a0a0a&logo=spotify&logoColor=d946ef)](https://open.spotify.com/user/th43eayr80gqa2im89prbwmot)
 [![Mail](https://img.shields.io/static/v1?style=flat-square&label=&message=Mail&color=0a0a0a&logo=gmail&logoColor=d946ef)](mailto:logeshvarmansrinivasan@gmail.com)
