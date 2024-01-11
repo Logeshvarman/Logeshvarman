@@ -16,6 +16,7 @@ Gamer🎮 & Full Stack Developer : ⚛ ReactJS⠀⬢ NodeJS⠀🕸️3️⃣ Sol
 ![HTML](https://img.shields.io/static/v1?style=flat-square&label=&message=HTML&color=0a0a0a&logo=html5&logoColor=d946ef)
 ![CSS](https://img.shields.io/static/v1?style=flat-square&label=&message=CSS&color=0a0a0a&logo=css3&logoColor=d946ef)
 ![SOLIDITY](https://img.shields.io/static/v1?style=flat-square&label=&message=Solidity&color=0a0a0a&logo=solidity&logoColor=d946ef)
+![PYTHON](https://img.shields.io/static/v1?style=flat-square&label=&message=Python&color=0a0a0a&logo=python&logoColor=d946ef)
 ![Kotlin](https://img.shields.io/static/v1?style=flat-square&label=&message=Kotlin&color=0a0a0a&logo=kotlin&logoColor=d946ef)
 ![Bash](https://img.shields.io/static/v1?style=flat-square&label=&message=Bash&color=0a0a0a&logo=gnu-bash&logoColor=d946ef)
 
