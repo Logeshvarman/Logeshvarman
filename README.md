@@ -1,8 +1,7 @@
 [![](./media/banner-friendly-transparent.png)](https://zyrouge.is-a.dev/)
 
 <p align="center">
-I am a Software Developer with a love for open-source.<br>
-Other than that, I love philosophy, anime and music.
+Gamer🎮 & Full Stack Developer : ⚛ ReactJS⠀⬢ NodeJS⠀🕸️3️⃣ Solidity
 </p>
 
 <br>
