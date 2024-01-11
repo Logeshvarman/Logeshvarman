@@ -20,7 +20,7 @@ Gamer🎮 & Full Stack Developer : ⚛ ReactJS⠀⬢ NodeJS⠀🕸️3️⃣ Sol
 ![Kotlin](https://img.shields.io/static/v1?style=flat-square&label=&message=Kotlin&color=0a0a0a&logo=kotlin&logoColor=d946ef)
 ![Bash](https://img.shields.io/static/v1?style=flat-square&label=&message=Bash&color=0a0a0a&logo=gnu-bash&logoColor=d946ef)
 
-![Firebase](https://img.shields.io/static/v1?style=flat-square&label=&message=Firebase%20Compose&color=0a0a0a&logo=firebase&logoColor=d946ef)
+![Firebase](https://img.shields.io/static/v1?style=flat-square&label=&message=Firebase&color=0a0a0a&logo=firebase&logoColor=d946ef)
 ![MongoDB](https://img.shields.io/static/v1?style=flat-square&label=&message=MongoDB&color=0a0a0a&logo=mongodb&logoColor=d946ef)
 ![SQL](https://img.shields.io/static/v1?style=flat-square&label=&message=SQL&color=0a0a0a&logo=sqlite&logoColor=d946ef)
 
